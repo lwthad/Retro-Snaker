@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\贪吃蛇.Form1.resources
+obj\Debug\贪吃蛇.Properties.Resources.resources
+obj\Debug\贪吃蛇.csproj.GenerateResource.Cache
+bin\Debug\贪吃蛇.exe
+bin\Debug\贪吃蛇.pdb
+obj\Debug\贪吃蛇.exe
+obj\Debug\贪吃蛇.pdb
